@@ -10,7 +10,7 @@
       }
     ],
 	  "fake_gps": false,
-    "gps_tty_path":"/dev/ttyAMA0"
+    "gps_tty_path":"/dev/ttyAMA0",
     "ref_latitude": 55.785622,
     "ref_longitude": 12.521317,
     "ref_altitude": 45,
