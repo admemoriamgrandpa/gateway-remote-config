@@ -3,7 +3,7 @@
     "gateway_ID": "B827EBFFFE4E55FB",
     "servers": [
       {
-        "server_address": "router.eu.thethings.network",
+        "server_address": "ec2-52-27-86-6.us-west-2.compute.amazonaws.com",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
