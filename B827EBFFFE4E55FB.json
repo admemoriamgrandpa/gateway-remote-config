@@ -7,6 +7,12 @@
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
+      },
+      {
+        "server_address": "ec2-35-166-186-106.us-west-2.compute.amazonaws.com",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
       }
     ],
 	  "fake_gps": false,
